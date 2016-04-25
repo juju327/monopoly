@@ -10,6 +10,8 @@ namespace projet_monopoly
         static void Main(string[] args)
         {
             //tototototo
+
+            // tatatata
         }
     }
 }
